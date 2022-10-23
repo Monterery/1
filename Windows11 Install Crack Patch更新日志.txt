@@ -40,7 +40,7 @@ Windows11 Install Crack Patch2.4  2022.8.27
 
 Windows11 Install Crack Patch3.0 beta1  2022.8.28
 更新 - 增加beta开发者测试版渠道
-更新 - 改用窗体应用程序
+更新 - 采用winform应用程序框架
 
 ---------------------------------------------------------------------
 
@@ -128,3 +128,15 @@ Windows11 Install Crack Patch3.1  2022.10.2
 修复 - 文本框显示不全bug
 修复 - 应用程序等待卡死、CPU占用高bug
 修复 - 安装程序无法正常启动删除旧安装包功能bug
+
+---------------------------------------------------------------------
+
+Windows11 Install Crack Patch3.2 beta 1  2022.10.24
+更新 - 创建属于Windows11 Install Crack Patch官网和GitHub仓库
+更新 - 增加在线检查更新功能
+更新 - 增加了菜单栏控件
+更新 - 更换了winform背景
+更新 - 取消对Windows11 Install Crack Patch2.0的支持
+更新 - 重新布局winform界面
+更新 - 删除以前旧的安装方式，更改为官网下载对应版本
+更新 - 重新将用户许可条款和更新日志栏目移回至安装程序上
