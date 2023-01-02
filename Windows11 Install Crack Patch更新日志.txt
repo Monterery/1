@@ -258,3 +258,11 @@ Windows11 Install Crack Patch3.3  2023.1.2
 修复 - 读取xml文件时将 null 文字或可能的 null 值转换为不可为 null 的类型的bug
 修复 - 将不安全的WebClient更改为HttpClient
 修复 - 一些其他已知问题
+
+---------------------------------------------------------------------
+
+Windows11 Install Crack Patch3.4 beta 1  2023.1.2
+更新 - 取消对Windows11 Install Crack Patch2.1和2.2的支持
+更新 - 取消窗口最大化及窗口大小调节功能
+更新 - 默认设置窗口启动位置居中
+修复 - 一系列检查更新的bug
