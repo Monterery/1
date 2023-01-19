@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <version remark="本地版本号">3.5.0.4</version>
-  <release remark="测试渠道">RC版</release>
+  <version remark="本地版本号">3.5.1.0</version>
+  <release remark="测试渠道">正式版</release>
 </root>
