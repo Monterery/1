@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Windows11 Install Crack Patch主程序/3.6.0.3": {
+      "Windows11 Install Crack Patch主程序/3.6.0.4": {
         "dependencies": {
           "runtimepack.Microsoft.Windows.SDK.NET.Ref": "10.0.17763.28"
         },
@@ -29,7 +29,7 @@
     }
   },
   "libraries": {
-    "Windows11 Install Crack Patch主程序/3.6.0.3": {
+    "Windows11 Install Crack Patch主程序/3.6.0.4": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
