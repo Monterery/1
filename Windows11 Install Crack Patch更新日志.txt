@@ -458,3 +458,13 @@ Windows11 Install Crack Patch3.6  2023.1.26
 修复 - 更新菜单弹出仍能操作的bug
 修复 - 关闭功能组件程序卡死的bug
 修复 - 优化代码
+
+---------------------------------------------------------------------
+
+Windows11 Install Crack Patch3.7 beta 1  2023.1.27
+更新 - 取消对Windows11 Install Crack Patch3.0的支持
+更新 - Windows11 Install Crack Patch用户许可条款
+更新 - 增加应用程序完整性保护（AIP）的功能
+修复 - 清理缓存出现错误的bug
+修复 - 用户许可条款模块显示空白的bug
+修复 - 同时多操作窗口的bug
