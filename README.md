@@ -65,6 +65,12 @@ RC版本为准正式版，也为本次Beta渠道的最后一个版本，bug较�
 <br><br>
 如想开启，请右键系统托盘，点击应用程序完整性保护（AIP）选项，再点击开启。
 <hr>
+备份与还原appraiserres.dll文件说明
+<br><br>
+备份原appraiserres.dll文件，防止因破解引发的兼容性问题。
+<br><br>
+当出现兼容性问题时，请到高级里还原appraiserres.dll文件。
+<hr>
 本应用增加修改Windows11系统镜像文件
 <br><br>
 请遵循微软公司的相关服务条款：
