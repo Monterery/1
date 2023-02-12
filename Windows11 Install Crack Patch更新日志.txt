@@ -485,3 +485,14 @@ Windows11 Install Crack Patch3.7 beta 3  2023.2.5
 更新 - 更改AIP认证模式
 修复 - 未找到autoupload文件夹的bug
 修复 - 清理更新文件后无法操作的bug
+
+---------------------------------------------------------------------
+
+Windows11 Install Crack Patch3.7 RC  2023.2.12
+更新 - 增加壁纸
+更新 - 增加设置未应用的提示
+更新 - 增加卸载快捷方式
+更新 - Windows11 Install Crack Patch用户许可条款
+修复 - 更新后未启动AIP
+修复 - 因启用AIP无法正常安装的bug
+修复 - 一直弹出更新内容的窗口

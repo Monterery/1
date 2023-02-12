@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <version remark="本地版本号">3.7.0.3</version>
-  <release remark="测试渠道">Beta版</release>
+  <version remark="本地版本号">3.7.0.4</version>
+  <release remark="测试渠道">RC版</release>
   <onlyread remark="AIP">1</onlyread>
   <backup remark="备份">0</backup>
 </root>
